@@ -10,4 +10,5 @@ public abstract class GameCard implements Card {
     protected String name;
     protected String description;
     protected String image;
+    protected String team;
 }

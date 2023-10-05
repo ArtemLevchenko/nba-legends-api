@@ -1,5 +1,48 @@
 [
-
+  {
+    "id": "16",
+    "name": "Bruce Bowen",
+    "image": "bbowen",
+    "cost": 3,
+    "power": 2,
+    "specialAbility": {
+      "description": "On Reveal: Destroy 1 random opponent card in the same zone.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Kevin Garnett",
+    "image": "kgarnett",
+    "cost": 3,
+    "power": 5,
+    "specialAbility": {
+      "description": "On Reveal: Discard the lowest-cost card from your opponent’s hand.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Dirk Nowitzki",
+    "image": "dnowitzki",
+    "cost": 3,
+    "power": 4,
+    "specialAbility": {
+      "description": "On Going: Can’t be destroyed, moved, or have its Power reduced.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Isiah Thomas",
+    "image": "ithomas",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Steal the text from a random enemy Ongoing card here.",
+      "triggerType": "ON_REVEAL"
+    }
+  }
 ]
 
 

@@ -4,16 +4,10 @@
     "name": "Dennis Rodman",
     "image": "drodman",
     "cost": 5,
-    "power": 3,
+    "power": 1,
     "specialAbility": {
       "description": "On Reveal: destroy 2 random opponent card in the same zone.",
-      "triggerType": "ON_REVEAL",
-      "modification": {
-        "value": 2,
-        "operation": "MINUS"
-      },
-      "skillType": "DESTROY_OPPONENT_CARDS",
-      "availableZone": "ALL_ZONES"
+      "triggerType": "ON_REVEAL"
     }
   },
   {
@@ -21,16 +15,10 @@
     "name": "Scottie Pippen",
     "image": "spippen",
     "cost": 5,
-    "power": 7,
+    "power": 6,
     "specialAbility": {
       "description": "On Reveal: If your opponent played a card here this turn, +5 Power.",
-      "triggerType": "ON_REVEAL",
-      "modification": {
-        "value": 5,
-        "operation": "PLUS"
-      },
-      "skillType": "BUFF_YOURSELF",
-      "availableZone": "ALL_ZONES"
+      "triggerType": "ON_REVEAL"
     }
   },
   {
@@ -38,16 +26,21 @@
     "name": "John Stockton",
     "image": "jstockton",
     "cost": 5,
-    "power": 5,
+    "power": 4,
     "specialAbility": {
-      "description": "On Reveal: Add Karl Malone in your hand",
-      "triggerType": "ON_REVEAL",
-      "modification": {
-        "value": 1,
-        "operation": "PLUS"
-      },
-      "skillType": "DRAW_CARD",
-      "availableZone": "ALL_ZONES"
+      "description": "On Reveal: Add Karl Malone Card to the inside zone",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Kareem Abdul-Jabbar",
+    "image": "kajabbar",
+    "cost": 5,
+    "power": 7,
+    "specialAbility": {
+      "description": "On Going: Has +6 Power in Inside Zone.",
+      "triggerType": "ON_GOING"
     }
   }
 ]

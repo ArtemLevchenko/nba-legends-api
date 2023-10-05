@@ -7,13 +7,7 @@
     "power": 0,
     "specialAbility": {
       "description": "Event: After each turn, draw a card if you’re winning here.",
-      "triggerType": "EVENT",
-      "modification": {
-        "value": 1,
-        "operation": "PLUS"
-      },
-      "skillType": "DRAW_CARD",
-      "availableZone": "ALL_ZONES"
+      "triggerType": "EVENT"
     }
   }
 ]

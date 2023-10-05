@@ -1,4 +1,49 @@
 [
+  {
+    "id": "10",
+    "name": "Tracey McGrady",
+    "image": "tmcgrady",
+    "cost": 4,
+    "power": 4,
+    "specialAbility": {
+      "description": "On Reveal: If you don’t play a card at this zone next turn, +4 Power.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Steve Nash",
+    "image": "snash",
+    "cost": 4,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Going: Your other cards at this zone have +2 Power.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Larry Bird",
+    "image": "lbird",
+    "cost": 4,
+    "power": 6,
+    "specialAbility": {
+      "description": "On Reveal: If your opponent played a card here this turn, +2 Power.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Tim Duncan",
+    "image": "tduncan",
+    "cost": 4,
+    "power": 6,
+    "specialAbility": {
+      "description": "On Going: all enemy cards here with -2 Power.",
+      "triggerType": "ON_GOING"
+    }
+  }
+
 
 ]
 

@@ -1,6 +1,5 @@
 package com.artbender.nba.legends.model.entity;
 
-import com.artbender.nba.legends.model.enums.EventType;
 import com.artbender.nba.legends.model.enums.Operation;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

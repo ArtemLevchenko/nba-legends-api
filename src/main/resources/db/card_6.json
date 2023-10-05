@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "Michael Jordan",
+    "image": "mjordan",
+    "cost": 6,
+    "power": 5,
+    "specialAbility": {
+      "description": "On Going: you have x3 power in the zone if this card alone.",
+      "triggerType": "ON_GOING",
+      "modification": {
+        "value": 3,
+        "operation": "MULTIPLY"
+      },
+      "skillType": "BUFF_YOURSELF_ALONE",
+      "availableZone": "ALL_ZONES"
+    }
+  },
+  {
+    "id": "4",
+    "name": "LeBron James",
+    "image": "ljames",
+    "cost": 6,
+    "power": 5,
+    "specialAbility": {
+      "description": "On Reveal: Add a 5-Power LeBron James to each other zone.",
+      "triggerType": "ON_REVEAL",
+      "modification": {
+        "value": 2,
+        "operation": "PLUS"
+      },
+      "skillType": "INSERT_CARD",
+      "availableZone": "ALL_ZONES"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Karl Malone",
+    "image": "kmalone",
+    "cost": 6,
+    "power": 12
+  }
+]
+
+
+
+
+

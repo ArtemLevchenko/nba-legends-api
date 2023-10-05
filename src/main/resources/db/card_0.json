@@ -1,0 +1,25 @@
+[
+  {
+    "id": "8",
+    "name": "Jason Kidd",
+    "image": "jkidd",
+    "cost": 0,
+    "power": 1,
+    "specialAbility": {
+      "description": "On Reveal: Change your cards in the hand from deck.",
+      "triggerType": "ON_REVEAL",
+      "modification": {
+        "value": 1,
+        "operation": "PLUS"
+      },
+      "skillType": "DRAW_CARD",
+      "availableZone": "ALL_ZONES"
+    }
+  }
+
+]
+
+
+
+
+

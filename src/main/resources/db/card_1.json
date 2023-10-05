@@ -1,0 +1,24 @@
+[
+  {
+    "id": "9",
+    "name": "Kawhi Leonard",
+    "image": "kleonard",
+    "cost": 1,
+    "power": 2,
+    "specialAbility": {
+      "description": "On Reveal: Destroy the top card of your opponent’s deck.",
+      "triggerType": "ON_REVEAL",
+      "modification": {
+        "value": 1,
+        "operation": "MINUS"
+      },
+      "skillType": "DESTROY_CARD",
+      "availableZone": "ALL_ZONES"
+    }
+  }
+]
+
+
+
+
+

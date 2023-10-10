@@ -1,48 +1,134 @@
 [
   {
-    "id": "16",
+    "id": "24",
     "name": "Bruce Bowen",
     "image": "bbowen",
     "cost": 3,
     "power": 2,
     "specialAbility": {
-      "description": "On Reveal: Destroy 1 random opponent card in the same zone.",
-      "triggerType": "ON_REVEAL"
+      "description": "On Reveal: Destroy 1 random opponent card in the same zone."
     }
   },
   {
-    "id": "17",
+    "id": "25",
     "name": "Kevin Garnett",
     "image": "kgarnett",
     "cost": 3,
     "power": 5,
     "specialAbility": {
-      "description": "On Reveal: Discard the lowest-cost card from your opponent’s hand.",
-      "triggerType": "ON_REVEAL"
+      "description": "On Reveal: Discard the lowest-cost card from your opponent’s hand."
     }
   },
   {
-    "id": "18",
+    "id": "26",
     "name": "Dirk Nowitzki",
     "image": "dnowitzki",
     "cost": 3,
     "power": 4,
     "specialAbility": {
-      "description": "On Going: Can’t be destroyed, moved, or have its Power reduced.",
-      "triggerType": "ON_GOING"
+      "description": "Ongoing: Can’t be destroyed, moved, or have its Power reduced."
+    }
+  },
+  {
+    "id": "27",
+    "name": "Isiah Thomas",
+    "image": "ithomas",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Steal the text from a random enemy Ongoing card here."
+    }
+  },
+  {
+    "id": "28",
+    "name": "Dominique Wilkins",
+    "image": "dwilkins",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Steal the text from a random enemy Ongoing card here."
     }
   },
   {
     "id": "19",
-    "name": "Isiah Thomas",
-    "image": "ithomas",
+    "name": "Hakeem Olajuwon",
+    "image": "haolajuwon",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "Ongoing: Your other cards at this location have +1 Power."
+    }
+  },
+  {
+    "id": "19",
+    "name": "Dwyane Wade",
+    "image": "dwilkins",
     "cost": 3,
     "power": 3,
     "specialAbility": {
       "description": "On Reveal: Steal the text from a random enemy Ongoing card here.",
       "triggerType": "ON_REVEAL"
     }
-  }
+  },
+  {
+    "id": "19",
+    "name": "Walt Frazier",
+    "image": "dwilkins",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Steal the text from a random enemy Ongoing card here.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Ray Allen",
+    "image": "dwilkins",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Steal the text from a random enemy Ongoing card here.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Joel Embiid",
+    "image": "dwilkins",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Steal the text from a random enemy Ongoing card here.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Oscar Robertson",
+    "image": "dwilkins",
+    "cost": 3,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Steal the text from a random enemy Ongoing card here.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
 
 

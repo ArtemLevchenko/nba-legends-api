@@ -1,16 +1,34 @@
 [
   {
-    "id": "8",
+    "id": "1",
     "name": "Jason Kidd",
     "image": "jkidd",
     "cost": 0,
     "power": 1,
     "specialAbility": {
-      "description": "On Reveal: Change your cards in the hand from deck.",
-      "triggerType": "ON_REVEAL"
+      "description": "On Reveal: Change your cards in the hand from deck."
+    }
+  },
+  {
+    "id": "2",
+    "name": "Muggsy Bogues",
+    "image": "mbogues",
+    "cost": 0,
+    "power": 1,
+    "specialAbility": {
+      "description": "On Reveal: Next turn, you get +2 Energy."
+    }
+  },
+  {
+    "id": "4",
+    "name": "James Harden",
+    "image": "jaharden",
+    "cost": 0,
+    "power": 2,
+    "specialAbility": {
+      "description": "On Reveal: Afflict your other cards at this location with -1 Power."
     }
   }
-
 ]
 
 

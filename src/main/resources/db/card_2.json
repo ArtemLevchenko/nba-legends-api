@@ -1,13 +1,83 @@
 [
   {
-    "id": "5",
-    "name": "Muggsy Bogues",
-    "image": "mbogues",
+    "id": "16",
+    "name": "Bill Russell",
+    "image": "brussel",
     "cost": 2,
-    "power": 0,
+    "power": 2,
     "specialAbility": {
-      "description": "Event: After each turn, draw a card if you’re winning here.",
-      "triggerType": "EVENT"
+      "description": "On Reveal: Destroy your other cards here. +2 Power for each destroyed."
+    }
+  },
+  {
+    "id": "17",
+    "name": "Alonzo Mourning",
+    "image": "amorning",
+    "cost": 2,
+    "power": 3,
+    "specialAbility": {
+      "description": "Ongoing: Can’t be destroyed, moved, or have its Power reduced."
+    }
+  },
+  {
+    "id": "18",
+    "name": "Carmelo Anthony",
+    "image": "caanthony",
+    "cost": 2,
+    "power": 4,
+    "specialAbility": {
+      "description": "On Reveal: Discard the lowest-cost card from your hand."
+    }
+  },
+  {
+    "id": "19",
+    "name": "Chauncey Billups",
+    "image": "chbillups",
+    "cost": 2,
+    "power": 1,
+    "specialAbility": {
+      "description": "On Reveal: Give the next card you play +3 Power."
+    }
+  },
+  {
+    "id": "20",
+    "name": "Magic Johnson",
+    "image": "majohnson",
+    "cost": 2,
+    "power": 3,
+    "specialAbility": {
+      "description": "Move: You can move this once. Nothing can stop you from moving or playing this to any zone."
+    }
+  },
+  {
+    "id": "21",
+    "name": "Pau Gasol",
+    "image": "pagasol",
+    "cost": 2,
+    "power": 5,
+    "specialAbility": {
+      "description": "Ongoing: -4 Power if your opponent has 4 cards here."
+    }
+  },
+  {
+    "id": "22",
+    "name": "Chris Webber",
+    "image": "chwebber",
+    "cost": 2,
+    "power": 2,
+    "specialAbility": {
+      "description": "On Reveal: If this is at the inside zone, +3 Power.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "23",
+    "name": "Andrei Kirilenko",
+    "image": "akirilenko",
+    "cost": 2,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Set all cards here to their original base Power."
     }
   }
 ]

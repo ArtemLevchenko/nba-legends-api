@@ -1,13 +1,109 @@
 [
   {
-    "id": "9",
-    "name": "Kawhi Leonard",
-    "image": "kleonard",
+    "id": "5",
+    "name": "David Robinson",
+    "image": "darobinson",
     "cost": 1,
     "power": 2,
     "specialAbility": {
-      "description": "On Reveal: Destroy the top card of your opponent’s deck.",
-      "triggerType": "ON_REVEAL"
+      "description": "On Reveal: Destroy the top card of your opponent’s deck."
+    }
+  },
+  {
+    "id": "6",
+    "name": "Dwight Howard",
+    "image": "dwhoward",
+    "cost": 1,
+    "power": 1,
+    "specialAbility": {
+      "description": "On Reveal: Destroy a random enemy 1-Cost card at this zone."
+    }
+  },
+  {
+    "id": "7",
+    "name": "Trae Young",
+    "image": "tryoung",
+    "cost": 1,
+    "power": 1,
+    "specialAbility": {
+      "description": "On Reveal: If you play a card at this zone next turn, +3 Power."
+    }
+  },
+  {
+    "id": "8",
+    "name": "Paul Pierce",
+    "image": "papierce",
+    "cost": 1,
+    "power": 1,
+    "specialAbility": {
+      "description": "Destroy: When this is destroyed, return it to your hand with double the Power."
+    }
+  },
+  {
+    "id": "9",
+    "name": "Chris Bosh",
+    "image": "chbosh",
+    "cost": 1,
+    "power": 1,
+    "specialAbility": {
+      "description": "Ongoing: If you have 3 other cards here, +3 Power."
+    }
+  },
+  {
+    "id": "10",
+    "name": "Grant Hill",
+    "image": "grhill",
+    "cost": 1,
+    "power": 2
+  },
+  {
+    "id": "11",
+    "name": "Jermaine O’Neal",
+    "image": "jeoneal",
+    "cost": 1,
+    "power": 2,
+    "specialAbility": {
+      "description": "On Reveal: If your opponent played a card here this turn, +2 Power."
+    }
+  },
+  {
+    "id": "12",
+    "name": "Baron Davis",
+    "image": "badavis",
+    "cost": 1,
+    "power": 2,
+    "specialAbility": {
+      "description": "Move: You can move this once."
+    }
+  },
+  {
+    "id": "13",
+    "name": "Gilbert Arenas",
+    "image": "garenas",
+    "cost": 1,
+    "power": 2,
+    "specialAbility": {
+      "description": "Move: When this moves, double its Power."
+    }
+  },
+  {
+    "id": "14",
+    "name": "Chris Paul",
+    "image": "chpaul",
+    "cost": 1,
+    "power": 3,
+    "specialAbility": {
+      "description": "On Reveal: Remove the abilities on the next card you play."
+    }
+  },
+  {
+    "id": "15",
+    "name": "Kyrie Irving",
+    "image": "kirving",
+    "cost": 1,
+    "power": 1,
+    "specialAbility": {
+      "description": "Destroy: When this is destroyed, give your cards +1 Power."
     }
   }
 ]

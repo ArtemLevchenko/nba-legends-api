@@ -42,7 +42,69 @@
       "description": "On Going: Has +6 Power in Inside Zone.",
       "triggerType": "ON_GOING"
     }
-  }
+  },
+  {
+    "id": "14",
+    "name": "Kevin Durant",
+    "image": "kajabbar",
+    "cost": 5,
+    "power": 7,
+    "specialAbility": {
+      "description": "On Going: Has +6 Power in Inside Zone.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Vince Carter",
+    "image": "kajabbar",
+    "cost": 5,
+    "power": 7,
+    "specialAbility": {
+      "description": "On Going: Has +6 Power in Inside Zone.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Stephen Curry",
+    "image": "kajabbar",
+    "cost": 5,
+    "power": 7,
+    "specialAbility": {
+      "description": "On Going: Has +6 Power in Inside Zone.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Shaquille O’Neal",
+    "image": "kajabbar",
+    "cost": 5,
+    "power": 7,
+    "specialAbility": {
+      "description": "On Going: Has +6 Power in Inside Zone.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Allen Iverson",
+    "image": "kajabbar",
+    "cost": 5,
+    "power": 7,
+    "specialAbility": {
+      "description": "On Going: Has +6 Power in Inside Zone.",
+      "triggerType": "ON_GOING"
+    }
+  },
+
+
+
+
+
+
+
 ]
 
 

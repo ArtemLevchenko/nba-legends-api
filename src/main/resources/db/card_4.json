@@ -42,7 +42,61 @@
       "description": "On Going: all enemy cards here with -2 Power.",
       "triggerType": "ON_GOING"
     }
-  }
+  },
+  {
+    "id": "15",
+    "name": "Dikembe Mutombo",
+    "image": "dmutombo",
+    "cost": 4,
+    "power": 6,
+    "specialAbility": {
+      "description": "On Going: all enemy cards here with -2 Power.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Giannis Antetokounmpo",
+    "image": "dmutombo",
+    "cost": 4,
+    "power": 6,
+    "specialAbility": {
+      "description": "On Going: all enemy cards here with -2 Power.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Clyde Drexler",
+    "image": "dmutombo",
+    "cost": 4,
+    "power": 6,
+    "specialAbility": {
+      "description": "On Going: all enemy cards here with -2 Power.",
+      "triggerType": "ON_GOING"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Damian Lillard",
+    "image": "dmutombo",
+    "cost": 4,
+    "power": 6,
+    "specialAbility": {
+      "description": "On Going: all enemy cards here with -2 Power.",
+      "triggerType": "ON_GOING"
+    }
+  },
+
+
+
+
+
+
+
+
+
+
 
 
 ]

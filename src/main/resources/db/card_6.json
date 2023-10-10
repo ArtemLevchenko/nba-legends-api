@@ -38,7 +38,44 @@
       "description": "On Reveal: Destroy your other cards in this zone.",
       "triggerType": "ON_REVEAL"
     }
+  },
+  {
+    "id": "12",
+    "name": "Luka Doncic",
+    "image": "wchamberlain",
+    "cost": 6,
+    "power": 15,
+    "specialAbility": {
+      "description": "On Reveal: Destroy your other cards in this zone.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Nikola Jokic",
+    "image": "wchamberlain",
+    "cost": 6,
+    "power": 15,
+    "specialAbility": {
+      "description": "On Reveal: Destroy your other cards in this zone.",
+      "triggerType": "ON_REVEAL"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Kobe Bryant",
+    "image": "wchamberlain",
+    "cost": 6,
+    "power": 15,
+    "specialAbility": {
+      "description": "On Reveal: Destroy your other cards in this zone.",
+      "triggerType": "ON_REVEAL"
+    }
   }
+
+
+
+
 ]
 
 

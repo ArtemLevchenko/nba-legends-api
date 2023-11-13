@@ -35,6 +35,7 @@
     "image": "ithomas",
     "cost": 3,
     "power": 3,
+
     "specialAbility": {
       "description": "On Reveal: Steal the text from a random enemy Ongoing card here."
     }
@@ -113,7 +114,7 @@
       "description": "On Reveal: Steal the text from a random enemy Ongoing card here.",
       "triggerType": "ON_REVEAL"
     }
-  },
+  }
 
 
 
